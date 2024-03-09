@@ -30,6 +30,7 @@ class BasicSingleton implements Serializable {
     }
 
     //SERIALIZATION PROBLEM FIX
+    //TODO YOU'R GIVING JVM A HINT
     protected Object readResolve() {
         return INSTANCE;
     }
