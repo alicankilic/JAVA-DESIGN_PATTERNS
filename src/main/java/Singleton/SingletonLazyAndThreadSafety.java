@@ -2,14 +2,16 @@ package Singleton;
 
 
 //TODO CORE LAZY SINGLETON THREAD SAFETY LAZY INIT..
-class LazySingleton {
-    private static LazySingleton instance;
+class LazySingleton
+{
+	private static LazySingleton instance;
 
-    private LazySingleton() {
-        System.out.println("initializing lazy singleton");
-    }
+	private LazySingleton()
+	{
+		System.out.println("initializing lazy singleton");
+	}
 
-    //TODO BELOW THIS ONE IS THE EASY WAY I WOULD PICK THIS
+	//TODO BELOW THIS ONE IS THE EASY WAY I WOULD PICK THIS
 /*
     public static synchronized LazySingleton getInstance() {
         if (instance == null) {
@@ -41,28 +43,33 @@ class LazySingleton {
 }
 
 
-class InnerStaticSingleton {
+class InnerStaticSingleton
+{
 
-    //TODO THIS APPROACH WORKS TOO
+	//TODO THIS APPROACH WORKS TOO
 
-    private InnerStaticSingleton() {
+	private InnerStaticSingleton()
+	{
 
-    }
+	}
 
-    private static class Imp {
-        private static final InnerStaticSingleton inner = new InnerStaticSingleton();
-
-
-    }
+	private static class Imp
+	{
+		private static final InnerStaticSingleton inner = new InnerStaticSingleton();
 
 
-    //
-    public InnerStaticSingleton getInstance() {
-             return Imp.inner;
-    }
+	}
+
+
+	//
+	public InnerStaticSingleton getInstance()
+	{
+		return Imp.inner;
+	}
 
 }
 
 
-public class SingletonLazyAndThreadSafety {
+public class SingletonLazyAndThreadSafety
+{
 }

@@ -14,92 +14,111 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
 
-interface IDb {
-    int getPopulation(String name);
+interface IDb
+{
+	int getPopulation(String name);
 
 }
 
-class SingletonDatabase implements IDb {
-    private Dictionary<String, Integer> capitals = new Hashtable<>();
+class SingletonDatabase implements IDb
+{
+	private Dictionary<String, Integer> capitals = new Hashtable<>();
 
-    private static int instanceCount = 0;
+	private static int instanceCount = 0;
 
-    private SingletonDatabase() {
-        instanceCount++;
-        System.out.println("init db");
-        try {
-            AtomicInteger ct = new AtomicInteger(0);
-            AtomicInteger roundTrip = new AtomicInteger(4);
-            Path fullPath = Paths.get("src/main/java", "res.txt");
-            List<String> strings = Files.readAllLines(fullPath);
-            strings.stream().forEach(s -> {
-                if (roundTrip.get() != 0) {
-                    capitals.put(strings.get(ct.get()).trim().toString(), Integer.parseInt(strings.get(ct.get() + 1).trim()));
-                    ct.addAndGet(2);
-                    roundTrip.addAndGet(-1);
-                }
-            });
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-    private static final SingletonDatabase INSTANCE = new SingletonDatabase();
+	private SingletonDatabase()
+	{
+		instanceCount++;
+		System.out.println("init db");
+		try
+		{
+			AtomicInteger ct = new AtomicInteger(0);
+			AtomicInteger roundTrip = new AtomicInteger(4);
+			Path fullPath = Paths.get("src/main/java", "res.txt");
+			List<String> strings = Files.readAllLines(fullPath);
+			strings.stream().forEach(s -> {
+				if (roundTrip.get() != 0)
+				{
+					capitals.put(strings.get(ct.get()).trim().toString(), Integer.parseInt(strings.get(ct.get() + 1).trim()));
+					ct.addAndGet(2);
+					roundTrip.addAndGet(-1);
+				}
+			});
+		}
+		catch (Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
 
-    public static SingletonDatabase getINSTANCE() {
-        return INSTANCE;
-    }
+	private static final SingletonDatabase INSTANCE = new SingletonDatabase();
 
-    public static int getInstanceCount() {
-        return instanceCount;
-    }
+	public static SingletonDatabase getINSTANCE()
+	{
+		return INSTANCE;
+	}
 
-    public int getPopulation(String name) {
-        return capitals.get(name);
-    }
+	public static int getInstanceCount()
+	{
+		return instanceCount;
+	}
+
+	public int getPopulation(String name)
+	{
+		return capitals.get(name);
+	}
 }
 
 
+class DummyDb implements IDb
+{
 
-class DummyDb implements IDb {
 
+	private Dictionary<String, Integer> data = new Hashtable<>();
 
-    private Dictionary<String, Integer> data = new Hashtable<>();
+	public DummyDb()
+	{
+		data.put("alpha", 1);
+		data.put("beta", 2);
+		data.put("gamma", 3);
+	}
 
-    public DummyDb() {
-        data.put("alpha", 1);
-        data.put("beta", 2);
-        data.put("gamma", 3);
-    }
-
-    @Override
-    public int getPopulation(String name) {
-        return data.get(name);
-    }
+	@Override
+	public int getPopulation(String name)
+	{
+		return data.get(name);
+	}
 }
 
 
-class ConfigurableRecordFinder {
-    private IDb db;
+class ConfigurableRecordFinder
+{
+	private IDb db;
 
-    public ConfigurableRecordFinder(IDb db) {
-        this.db = db;
-    }
+	public ConfigurableRecordFinder(IDb db)
+	{
+		this.db = db;
+	}
 
-    public int getTotalPopulation(List<String> names) {
-        int result = 0;
-        for (String name : names) {
-            result += db.getPopulation(name);
-        }
-        return result;
-    }
+	public int getTotalPopulation(List<String> names)
+	{
+		int result = 0;
+		for (String name : names)
+		{
+			result += db.getPopulation(name);
+		}
+		return result;
+	}
 }
 
 
-class SingletonRecordFinder {
+class SingletonRecordFinder
+{
 
 }
 
-public class Tests {
+public class Tests
+{
 /*
     //TODO WORKS AS INTEGRATION TEST BECAUSE YOU ARE TESTING BOTH CLASSES AND DB BEHAVIOUR
     @Test
@@ -112,13 +131,14 @@ public class Tests {
 
  */
 
-    @Test
-    public void dependentPopulationTest() {
-        DummyDb db = new DummyDb();
-        ConfigurableRecordFinder rf = new ConfigurableRecordFinder(db);
-        Assert.assertEquals(4, rf.getTotalPopulation(List.of("alpha","gamma")));
+	@Test
+	public void dependentPopulationTest()
+	{
+		DummyDb db = new DummyDb();
+		ConfigurableRecordFinder rf = new ConfigurableRecordFinder(db);
+		Assert.assertEquals(4, rf.getTotalPopulation(List.of("alpha", "gamma")));
 
-    }
+	}
 
 
 }
