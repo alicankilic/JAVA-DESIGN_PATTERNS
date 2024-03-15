@@ -1,0 +1,31 @@
+
+d
+4src/main/java/Singleton/EnumBasedSingletonClass.java,1/3/131d0fb3b39d53ff69327d69adfec1958231ddd2
+X
+(src/main/java/Singleton/StaticBlock.java,c/2/c21fa5d62c24f9e18e19e1fa56e4dcca0f572768
+K
+src/main/java/Demo_ocp.java,2/3/23bacdfda3df953ddd11285699a1d5c1377e6d4d
+P
+ src/main/java/Factory/Point.java,2/9/29c3be2869c2dffd91372f161e5345bbc4d97971
+G
+src/main/java/Demo.java,e/6/e6137a6bfe609097411d5b53afb69474b5da0ee0
+I
+src/main/java/Liskov.java,e/a/ea1ae686404af6e1d07328fed8b13f115ad4211a
+S
+#src/main/java/Factory/AbsCheck.java,a/3/a3cbb81eafbfb0eaa9fca4c6c26c1ec561c08e19
+\
+,src/main/java/Factory/AbstractFactoryEx.java,5/1/51f930089a03676446307a627dab04b1a978e95b
+c
+3src/main/java/Singleton/SingletonTakesSupplier.java,e/c/ec0f5f4fe79c62a057fd34ea1c27e627c20ed4fe
+Q
+!src/main/java/Builder/Buildd.java,7/2/720b4c6c3a4f3a9b672809540a657a8f909d4e40
+c
+3src/main/java/Singleton/StaticLazySynchronized.java,3/f/3fbd76a42fba0446ec294264ce60bf87ce57fbef
+Z
+*src/main/java/Singleton/MySingletonXX.java,e/c/ecf5b44ceaf9231c0f071cc1ecfdcce4f8d69509
+O
+src/main/java/Adapter/Demo.java,b/5/b5cf8cc362ac1926f6e1c0300f2e6205fcdc8602
+T
+$src/main/java/Bridge/BridgeDemo.java,d/c/dc161f0fa6c9e374813624b7640c44fe17108583
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec

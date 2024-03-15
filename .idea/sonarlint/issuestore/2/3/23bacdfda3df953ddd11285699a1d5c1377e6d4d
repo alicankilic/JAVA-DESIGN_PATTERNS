@@ -1,0 +1,20 @@
+
+Œ
+java:S1104a"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$ad4a14eb-cff6-4fa1-b0db-35a792229fe1
+
+java:S1104b"QMake color a static final constant or non-public and provide accessors if needed.(ê·®©J$60bcaf1c-539e-473a-8281-41e858a475ec
+‘
+java:S1104d"PMake size a static final constant or non-public and provide accessors if needed.(ò›»¶úÿÿÿÿJ$8575786c-5844-4b63-b82c-ecf7a263f67e
+	java:S101S"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•ğª‘ùÿÿÿÿJ$da5d94eb-580a-40f9-8aed-6179660ca0a0
+V
+java:S1220""Move this file to a named package.J$381c8631-e4a4-4e0b-8f33-e28b826ad755
+s
+java:S1135"2Complete the task associated to this TODO comment.(³ÕÄıÿÿÿÿJ$63c233c8-c6bb-436f-bc49-f0410bc7934c
+z
+java:S1612">Replace this lambda with method reference 'spec::isSatisfied'.(üÑØçJ$813aef96-8858-4fe0-be75-501029ef4661
+e
+java:S1659 "$Declare "second" on a separate line.(ŸŸúûÿÿÿÿJ$e0f8eb6a-97a2-4d47-996e-cf15fee6295c
+g	java:S106"+Replace this use of System.out by a logger.(ªÎîÏJ$ad11c310-be65-4573-9e7c-d8a296d1f378
+g	java:S106‘"+Replace this use of System.out by a logger.( ã†J$35c422b1-c9c7-4dfb-b2f5-d6c304468cb5
+l	java:S106”"+Replace this use of System.out by a logger.(³¦Æ¿øÿÿÿÿJ$f8f69551-cf0d-42cb-9206-70b681c1b096
+g	java:S106—"+Replace this use of System.out by a logger.(Í“ğÒJ$63a3744b-47e1-4976-b604-e0eb301ba3a2

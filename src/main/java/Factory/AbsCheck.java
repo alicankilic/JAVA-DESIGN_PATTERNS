@@ -1,6 +1,8 @@
 package Factory;
 
 
+import java.util.logging.Logger;
+
 interface ICar
 {
 	void checkEngine();
@@ -18,36 +20,40 @@ interface IMoto
 
 class BmwMoto implements IMoto
 {
+	Logger logger = Logger.getLogger(getClass().getName());
+
 
 	@Override
 	public void checkMoto()
 	{
-		System.out.println("bmw moto");
+		logger.info("bmw moto");
 
 	}
 
 	@Override
 	public void startMoto()
 	{
-		System.out.println("bmw moto BRRRRRRRRR");
+		logger.info("bmw moto BRRRRRRRRR");
 
 	}
 }
 
 class HondaMoto implements IMoto
 {
+	Logger logger = Logger.getLogger(getClass().getName());
+
 
 	@Override
 	public void checkMoto()
 	{
-		System.out.println("audi moto");
+		logger.info("audi moto");
 
 	}
 
 	@Override
 	public void startMoto()
 	{
-		System.out.println("audi moto brrrrrrrrrrrrrrrrrrrRRR");
+		logger.info("audi moto brrrrrrrrrrrrrrrrrrrRRR");
 	}
 }
 
@@ -95,34 +101,38 @@ class BmwFactory implements ICarMotoFactory
 
 class Bmw implements ICar
 {
+	Logger logger = Logger.getLogger(getClass().getName());
+
 
 	@Override
 	public void checkEngine()
 	{
-		System.out.println("bmw");
+		logger.info("bmw");
 	}
 
 	@Override
 	public void startEngine()
 	{
-		System.out.println("bmw brr");
+		logger.info("bmw brr");
 	}
 }
 
 class Honda implements ICar
 {
 
+	Logger logger = Logger.getLogger(getClass().getName());
+
 	@Override
 	public void checkEngine()
 	{
-		System.out.println("honda");
+		logger.info("honda");
 
 	}
 
 	@Override
 	public void startEngine()
 	{
-		System.out.println("honda brr");
+		logger.info("honda brr");
 	}
 }
 
