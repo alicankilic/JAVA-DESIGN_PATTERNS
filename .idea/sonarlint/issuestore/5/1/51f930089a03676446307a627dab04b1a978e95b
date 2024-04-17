@@ -1,16 +1,16 @@
 
-†	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$031102c0-5315-414e-96da-a14f79c72696
-†	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Â¯¹ŞıÿÿÿÿJ$da4bb6a7-16b7-4720-a212-e50dc26f1be5
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡•ë…J$b5e4a0ed-6275-4031-ae3a-71ef7a7e07d8
-f	java:S106"+Replace this use of System.out by a logger.(ˆ¯™¤J$84ce6952-61af-47c8-9f47-8b23bf73443d
-f	java:S106$"+Replace this use of System.out by a logger.(ÌÍ€J$5637e5ea-6535-4785-b41a-85c2da3fb963
-k	java:S1063"+Replace this use of System.out by a logger.(¶­¤ùüÿÿÿÿJ$39f1ea90-9a39-4b69-be5f-fc86b7dbd593
-k	java:S106>"+Replace this use of System.out by a logger.(µ×ĞÊşÿÿÿÿJ$435b2b17-5498-409c-90f3-ddc5887f305d
-k	java:S106]"+Replace this use of System.out by a logger.(£‰ĞüÿÿÿÿJ$d66c4e93-644b-42e4-b450-1208c1a7ae3e
-f	java:S106`"+Replace this use of System.out by a logger.(¾õ•‹J$960dd0c7-24b0-49e4-bc18-03215698af3a
+†	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$3e227436-9a73-4818-8b81-eaf829b4a2ce
+†	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Â¯¹ŞıÿÿÿÿJ$6779eb42-4afa-45af-9e07-b5586eb7b2c6
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡•ë…J$be0bd42c-3e7c-48d4-807d-b22a4b2a63d5
+f	java:S106"+Replace this use of System.out by a logger.(ˆ¯™¤J$a2595309-dfd9-48f1-b226-c8cd8ff51e52
+f	java:S106$"+Replace this use of System.out by a logger.(ÌÍ€J$f1ac11e5-e3fa-4973-905b-8321e63c1f6c
+k	java:S1063"+Replace this use of System.out by a logger.(¶­¤ùüÿÿÿÿJ$693cc77a-a108-4998-933e-d4d616aaafd6
+k	java:S106>"+Replace this use of System.out by a logger.(µ×ĞÊşÿÿÿÿJ$4f1c7d90-4f03-490a-9916-85366d62b20d
+k	java:S106]"+Replace this use of System.out by a logger.(£‰ĞüÿÿÿÿJ$3972dacd-c944-4b10-a1c2-e5402fb44d62
+f	java:S106`"+Replace this use of System.out by a logger.(¾õ•‹J$22d6892a-1b01-4ecc-8d46-d22b3fe47452
 `
-java:S1659f"$Declare "amount" on a separate line.(êççJ$d247c63c-263c-4ebc-813f-8938c3d893fc
-f	java:S106i"+Replace this use of System.out by a logger.(ĞáëJ$83498d8d-4ec5-49d0-8f51-f1e771900177
-k	java:S106p"+Replace this use of System.out by a logger.(íå¬ıÿÿÿÿJ$321a1f86-cfd3-40c8-90b0-7ef469fe5dfc
+java:S1659f"$Declare "amount" on a separate line.(êççJ$476a7678-fe08-4694-a9d1-e3a5c0d12749
+f	java:S106i"+Replace this use of System.out by a logger.(ĞáëJ$fab104a1-fdcf-419e-ba0a-c56c47a42954
+k	java:S106p"+Replace this use of System.out by a logger.(íå¬ıÿÿÿÿJ$1c4a9750-389e-4684-89f1-b33ca2e8ce69
 
-java:S2094‚"BRemove this empty class, write its code or make it an "interface".(»’üØJ$b17554e7-a54d-4194-9631-068e18b7be72
+java:S2094‚"BRemove this empty class, write its code or make it an "interface".(»’üØJ$810e9ccb-8e39-40ef-919f-81d9c141b14f

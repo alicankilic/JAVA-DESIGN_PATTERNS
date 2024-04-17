@@ -1,0 +1,18 @@
+
+”
+java:S1104U"QMake start a static final constant or non-public and provide accessors if needed.(²ÁÙÍ8÷™ûëä1J$c60e93eb-ffe9-4b12-926c-254d374bbec0
+’
+java:S1104U"OMake end a static final constant or non-public and provide accessors if needed.(²ÁÙÍ8÷™ûëä1J$521225e7-d94a-4b63-b5d0-f4571382b36a
+
+java:S1104V"VMake capitalize a static final constant or non-public and provide accessors if needed.(¹«Şäÿÿÿÿÿ8÷™ûëä1J$d1dcd846-dd02-4c3a-b11d-e7dfba9fd55d
+˜
+java:S1104V"PMake bold a static final constant or non-public and provide accessors if needed.(¹«Şäÿÿÿÿÿ8÷™ûëä1J$a6bdeede-9ec1-4db0-b22e-765b2ddc93ae
+š
+java:S1104V"RMake italic a static final constant or non-public and provide accessors if needed.(¹«Şäÿÿÿÿÿ8÷™ûëä1J$7a407a57-45ba-4c38-83b2-8b6606eaf671
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¾™¯ùÿÿÿÿ8ø™ûëä1J$1c045624-537d-4e0f-96f1-0fc0243e3ce4
+d
+java:S1659U"!Declare "end" on a separate line.(²ÁÙÍ8’šûëä1J$f3d39c48-2d99-447b-bf09-dca392ddde08
+‰
+java:S1659V"ADeclare "bold" and all following declarations on a separate line.(¹«Şäÿÿÿÿÿ8’šûëä1J$7b4cadda-0256-4f98-b5d4-22ad3873ef88
+r	java:S106m"+Replace this use of System.out by a logger.(†İ´Ïşÿÿÿÿ8“šûëä1J$0c9c89aa-8a4f-40f0-a203-0b712c6cde0f
+r	java:S106s"+Replace this use of System.out by a logger.(“øƒãúÿÿÿÿ8Ú®‚ìä1J$9c214c3f-7296-41f3-836c-e469c266b310

@@ -1,0 +1,50 @@
+
+†	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$1ce0c72c-800f-4eb3-95b3-af07d68ec0cd
+’
+java:S1104"VMake streetName a static final constant or non-public and provide accessors if needed.(£Ö½àJ$da2f615a-3a25-48e5-8bea-9c1fd4a15c6a
+“
+java:S1104"WMake houseNumber a static final constant or non-public and provide accessors if needed.(²º×èJ$9bbd3b39-e48a-46f5-a660-8101846a3e6b
+’
+java:S1104,"QMake names a static final constant or non-public and provide accessors if needed.(—ºÜŞıÿÿÿÿJ$d9901e2d-586c-4cd7-b456-4b2249f520ab
+“
+java:S1104-"RMake addres a static final constant or non-public and provide accessors if needed.(¦®§ÎøÿÿÿÿJ$c9f5be7d-7b50-47d2-891c-098c0dab07b4
+Œ
+java:S1104i"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$98cc76f8-6330-4c0a-9215-69d65c43e9dd
+“
+java:S1104j"RMake adress a static final constant or non-public and provide accessors if needed.(‰Í“ÌúÿÿÿÿJ$bdb673b6-0d2a-4b11-bcf9-439c2ceff6aa
+•
+java:S1104"XMake streetAdress a static final constant or non-public and provide accessors if needed.(ÜÆÚ¸J$49e8725c-2df1-4a4c-b770-d475cf7c6cda
+
+java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(ÜÆÚ¸J$557b4155-9df5-4f2f-a4aa-0470de7d0d79
+
+java:S1104"SMake country a static final constant or non-public and provide accessors if needed.(ÜÆÚ¸J$9b843b44-2080-4287-a9e9-800b44ae7dbd
+“
+java:S1104£"QMake stuff a static final constant or non-public and provide accessors if needed.(÷àÕ¢şÿÿÿÿJ$ce6a5fc7-d348-428d-8dcd-ce6fb8f71074
+‘
+java:S1104µ"TMake whatever a static final constant or non-public and provide accessors if needed.(…©ÚÙJ$66d0d6bb-fa5c-4542-a570-880734dfe20b
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÑèïøÿÿÿÿJ$d623e063-abce-48cf-bd0b-222e60a0e536
+n
+java:S1135
+"2Complete the task associated to this TODO comment.(˜ÏíèJ$55c6cb24-393b-4e5d-9412-941527d9f34e
+s
+java:S1135"2Complete the task associated to this TODO comment.(¢õ½úÿÿÿÿJ$53242211-b393-44ab-ab74-5a310e47ca3c
+”
+java:S2975$"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿJ$3cc505e2-6dbf-4b86-9124-df96347e1785
+‰
+java:S1182$"HUse super.clone() to create and seed the cloned instance to be returned.(ŒÉ¯æşÿÿÿÿJ$0714c5cf-755e-4944-9eee-306c2e43dc02
+”
+java:S2975?"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿJ$2646a800-6af3-41bb-b609-2ef56d4da9d1
+‰
+java:S1182?"HUse super.clone() to create and seed the cloned instance to be returned.(ŒÉ¯æşÿÿÿÿJ$fe01a891-6518-486d-aac6-966a981e3f9b
+k	java:S106R"+Replace this use of System.out by a logger.(ë»Ã¨ÿÿÿÿÿJ$d9772e94-84da-4e07-a31c-e90d7aadfc66
+f	java:S106Z"+Replace this use of System.out by a logger.(¯¢J$11238dcc-2818-4211-b6e4-934ce17a3344
+ƒ
+java:S2094|"BRemove this empty class, write its code or make it an "interface".(É¼ù–ÿÿÿÿÿJ$cdf5258d-2d81-4d4d-9684-5d6a6df7ecc4
+~
+java:S1659"ADeclare "city" and all following declarations on a separate line.(ÜÆÚ¸J$90328dc0-82e9-455d-bae3-a220fafe0385
+o
+java:S1135‹"2Complete the task associated to this TODO comment.(çƒƒúJ$800a9006-6659-4810-8b37-83ab0b98f27c
+t
+java:S1135¾"2Complete the task associated to this TODO comment.(´“øÿÿÿÿJ$66d5f37d-ce1d-49e7-8855-8df24f1f3779
+g	java:S106Â"+Replace this use of System.out by a logger.(ÎŒö›J$fd1034e8-b0b4-44e4-96d3-c4d2745c1d06
+g	java:S106Ã"+Replace this use of System.out by a logger.(™÷ÉJ$2772d9d3-8a76-4f80-8fd5-efdb31282573

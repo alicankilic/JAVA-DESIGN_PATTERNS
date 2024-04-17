@@ -1,0 +1,15 @@
+
+”
+java:S1104˜"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8Î¿ßõè1J$8b9aaef4-ed56-4886-b63c-6b956c3f769d
+¡	java:S120o"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¿•žûÿÿÿÿ8Ï¿ßõè1J$35cfa8e1-214e-49ce-b85b-d9fe5647902a
+Ê
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å³¯¾ùÿÿÿÿ8Ø¿ßõè1J$9311b38a-6eb1-4976-b3db-6c2c8e2d029d
+Ä
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú×ºD8Ø¿ßõè1J$b3a7220c-d24c-4039-8d2a-29fb79578260
+Ê
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ˆ¡§úÿÿÿÿ8Ø¿ßõè1J$ad806bd8-ea8c-4ec5-a893-98e106ff5204
+s	java:S106¬"+Replace this use of System.out by a logger.(Ô¯’…ÿÿÿÿÿ8Ù¿ßõè1J$328b0fea-9c2c-41ec-bddf-f462b0694604
+}
+java:S1854¿"9Remove this useless assignment to local variable "coach".(Â£ÂÅ8Û¿ßõè1J$f46e4774-effa-48d2-9f35-53aea6bf235d
+n
+java:S1481¿"*Remove this unused "coach" local variable.(Â£ÂÅ8Û¿ßõè1J$a344c0d8-86ed-46c6-bd7f-d5ea0984a998

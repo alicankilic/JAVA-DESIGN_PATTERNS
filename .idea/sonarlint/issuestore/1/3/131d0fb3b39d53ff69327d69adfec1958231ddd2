@@ -1,24 +1,24 @@
 
-€	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(“÷èGJ$d00e5e13-c28e-4dbf-8c01-88a8e85e5818
-€	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Å¼×<J$be5fb667-d834-49c5-b944-475efe1c22d6
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸŞJ$124471a8-08a9-4b30-80ec-2df5d7fa721c
+€	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(“÷èGJ$f0854de6-cf49-4b4c-be16-32db1610cf7d
+€	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Å¼×<J$a9cfae19-ea59-4325-8642-716b4df22bed
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸŞJ$1558f81f-0431-4e9f-997b-121ff60bfd4f
 
-java:S2095%"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(±øÌşÿÿÿÿJ$3033d6d4-1d34-4296-a180-78acfca094e9
-‘
-java:S2095&"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(”Şª şÿÿÿÿJ$221dc86d-8ea8-48ab-b2c9-5e1f2ebd08a2
+java:S2095%"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(±øÌşÿÿÿÿJ$7a59f25e-6c7a-4146-bdd3-e6cdd1f05667
 ‹
-java:S2095."OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ü¥¦óJ$7f3c8941-88bc-4189-a7a7-92cf7a71c9ba
+java:S2095."OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ü¥¦óJ$bb188e21-dd58-4cb8-821a-359f4ef3d88c
+‘
+java:S2095&"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(”Şª şÿÿÿÿJ$404cbc9a-654a-48cb-9cac-b3e6a973a6b4
 
-java:S2095-"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÎÕ¤ÅşÿÿÿÿJ$0fadbc39-7db3-4773-9b76-36a68822f9d3
+java:S2095-"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÎÕ¤ÅşÿÿÿÿJ$d0e24401-1b0f-46d8-a1ee-cfb208933417
 x
-java:S3066"<Lower the visibility of this setter or remove it altogether.(‘„“¦J$4b2fcc21-a143-4bb1-9eeb-3cfab4b9a05c
+java:S3066"<Lower the visibility of this setter or remove it altogether.(‘„“¦J$909e96e9-d945-4336-b4b1-82538acd6d32
 ğ
-java:S6548	"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(°ìÙÌûÿÿÿÿJ$809e8a6e-24fc-42ad-a87a-e4d1dc4cc790
+java:S6548	"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(°ìÙÌûÿÿÿÿJ$0a4a8778-4e29-4733-a6c0-066bf7e64a28
 m
-java:S11355"2Complete the task associated to this TODO comment.(­¶§%J$dca2a043-cc61-4b47-9776-45ed6c9ffd76
-f	java:S106="+Replace this use of System.out by a logger.(½ÎàJ$c7a0a604-1d58-4750-9c49-2ad1b22799b0
-k	java:S106>"+Replace this use of System.out by a logger.(‚Š½ÄúÿÿÿÿJ$41bfce04-3056-4c59-96b6-c824a53b35b3
+java:S11355"2Complete the task associated to this TODO comment.(­¶§%J$c750a38f-d64e-46ae-945f-1b381b2c477f
+f	java:S106="+Replace this use of System.out by a logger.(½ÎàJ$95ffddea-8a08-46f2-9d66-89580c0b5a5c
+k	java:S106>"+Replace this use of System.out by a logger.(‚Š½ÄúÿÿÿÿJ$68fcc2b2-72b2-437b-886d-33997b4f9022
 ~
-java:S2094C"BRemove this empty class, write its code or make it an "interface".(†ö°J$1872af9a-2926-41a7-be24-7eb1afa725c0
+java:S2094C"BRemove this empty class, write its code or make it an "interface".(†ö°J$25173107-981d-4908-9fd1-7138c45cd774
 _
-java:S1128"$Remove this unused import 'java.io'.(¬›ãDJ$6a469922-5812-475d-b1d5-5f9536a1e53f
+java:S1128"$Remove this unused import 'java.io'.(¬›ãDJ$d54b77b2-d71b-4841-9d79-a34ae02a0757

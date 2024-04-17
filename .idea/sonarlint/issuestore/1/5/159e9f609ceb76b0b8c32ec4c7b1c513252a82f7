@@ -1,0 +1,35 @@
+
+Ÿ	java:S127z"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ8ØŒ¾¶è1J$1046a4d1-8401-4c0c-99c0-7763e4fc0980
+›	java:S127¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµĞ·8ØŒ¾¶è1J$b560adf4-0271-450a-b6c4-4c4639a10c09
+
+java:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(Æø—Ø8ØŒ¾¶è1J$b8fbe9d2-f375-41bc-8a0e-3cd705673b60
+˜
+java:S1104("PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8ÙŒ¾¶è1J$a3c3eb0b-216c-4c04-a822-d7d24e539e25
+“
+java:S1104)"PMake left a static final constant or non-public and provide accessors if needed.(ğÒ™ì8ÙŒ¾¶è1J$1a87975b-8f8e-4c65-aa14-f49e936d15e1
+”
+java:S1104)"QMake right a static final constant or non-public and provide accessors if needed.(ğÒ™ì8ÙŒ¾¶è1J$f62bf3e9-d379-43c8-83bc-9cf39458f129
+˜
+java:S1104J"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8ÙŒ¾¶è1J$4521d0bd-bc35-4efa-bd40-d000607c9cad
+˜
+java:S1104L"PMake text a static final constant or non-public and provide accessors if needed.(øò¨ıÿÿÿÿ8ÙŒ¾¶è1J$6966ea42-7d7d-498e-913b-d66b1168d407
+Œ
+java:S2184°"CCast one of the operands of this subtraction operation to a "long".(œ’ôÿşÿÿÿÿ8ÚŒ¾¶è1J$48cc072f-48cc-409d-a3f0-67d9a346628e
+‰
+java:S2184°"@Cast one of the operands of this addition operation to a "long".(œ’ôÿşÿÿÿÿ8ÚŒ¾¶è1J$a543bfaa-a586-45ae-9a5d-6d7dc2fc3393
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úË®Ùûÿÿÿÿ8ÚŒ¾¶è1J$1c0d0b50-dae6-4317-ad46-2123a82b1d01
+f
+java:S1659)"#Declare "right" on a separate line.(ğÒ™ì8·¾¶è1J$35a37eb9-9d48-4d10-8dab-cf7c491e7162
+›
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ìı˜ìûÿÿÿÿ8½¾¶è1J$8ba0df55-6bf1-4e43-8692-741695225074
+œ	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(š‹Œî8¿¾¶è1J$8c184bf0-c1bc-44b6-b8f8-5f4a2d5200d4
+e
+java:S6205 "Remove this redundant block.(ÒÌâ–øÿÿÿÿ8¿¾¶è1J$25edd894-83d1-447c-971b-516f25bfded2
+e
+java:S6205¤"Remove this redundant block.(ÒÌâ–øÿÿÿÿ8À¾¶è1J$f027b50a-6f98-4f8a-a319-e5267678cd6c
+›
+java:S6204°"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œ’ôÿşÿÿÿÿ8À¾¶è1J$0c947680-2c1d-461b-bccc-04878c746ad0
+s	java:S106Ç"+Replace this use of System.out by a logger.(œØÂŒúÿÿÿÿ8Â¾¶è1J$dca8db39-dcfb-40b6-91e2-f660613e012b
+†
+java:S1612Ç"=Replace this lambda with method reference 'Object::toString'.(œØÂŒúÿÿÿÿ8Â¾¶è1J$6301642c-b837-4243-8b08-3876cfa3c8d1
+s	java:S106Ê"+Replace this use of System.out by a logger.(Ôıçàøÿÿÿÿ8Ã¾¶è1J$56c8f6c2-f45b-4e6f-a85b-22f54926aa80

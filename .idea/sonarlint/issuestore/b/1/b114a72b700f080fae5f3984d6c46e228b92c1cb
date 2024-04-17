@@ -1,0 +1,22 @@
+
+“
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ŠÛõ–æ1J$b7ec9cd0-9ff3-47d5-9a78-b47be7e99e48
+•
+java:S1104"RMake attack a static final constant or non-public and provide accessors if needed.(÷›¶¤8ŠÛõ–æ1J$4a59f912-e660-4c53-b396-097f22979caf
+–
+java:S1104"SMake defence a static final constant or non-public and provide accessors if needed.(÷›¶¤8ŠÛõ–æ1J$63290668-b11a-465d-9a65-4dfd3c9b28d7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şğ ä8‹Ûõ–æ1J$9bb88737-eedb-4eb4-911c-4005c88328e6
+h
+java:S1659"%Declare "defence" on a separate line.(÷›¶¤8Ûõ–æ1J$26e5e961-beee-419d-9992-7d5cfdde46a2
+r	java:S106M"+Replace this use of System.out by a logger.(ÿ‹£¢üÿÿÿÿ8”Ûõ–æ1J$cd6b658a-ae2f-4d82-bf42-9e955609688b
+r	java:S106^"+Replace this use of System.out by a logger.(Ø ”úıÿÿÿÿ8•Ûõ–æ1J$eeb3d9cc-0fe4-41e6-9b09-7761cf0b67c1
+m	java:S106q"+Replace this use of System.out by a logger.(¥ô›«8–Ûõ–æ1J$cf437608-6360-4c71-8f53-803bb7adf620
+r	java:S106z"+Replace this use of System.out by a logger.(À¼é¯øÿÿÿÿ8–Ûõ–æ1J$4bc4a2b1-b0a0-4ba6-8b97-eb8cfbaf730e
+r	java:S106~"+Replace this use of System.out by a logger.(å¹ä“ıÿÿÿÿ8Ì÷–æ1J$cbf754a2-5901-42fa-b962-4e6da0e3d00c
+s	java:S106‚"+Replace this use of System.out by a logger.(”Ë˜üÿÿÿÿ8Å­û–æ1J$a224c744-7056-4390-8b63-52b7dfd69485
+s	java:S106†"+Replace this use of System.out by a logger.(À¼é¯øÿÿÿÿ8êÛş–æ1J$40ca185f-f6a6-42ff-829a-e3ca52396d1f
+ˆ
+java:S1128"@Remove this unused import 'com.google.inject.CreationException'.(ÀÚ•ÿÿÿÿÿ8­ş–æ1J$f3a3f7cb-5fb8-4c91-893b-e22445a6e792
+‰
+java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.C'.(ÏıÁÊ8–Ûõ–æ1J$63397c6f-f25a-4a7d-b8d5-2155460432fc

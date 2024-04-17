@@ -1,0 +1,21 @@
+
+›
+java:S1104)"XMake creatureName a static final constant or non-public and provide accessors if needed.(È˜Â8Å¤Şæ1J$3edbe606-f2b7-4e85-b923-7161b5912c41
+œ
+java:S11040"TMake argument a static final constant or non-public and provide accessors if needed.(°¢‰šüÿÿÿÿ8ŸÅ¤Şæ1J$9c3de4c8-e980-42ee-ada4-7b01ef788567
+š
+java:S11042"RMake result a static final constant or non-public and provide accessors if needed.(ĞØ²˜ûÿÿÿÿ8ŸÅ¤Şæ1J$397f9426-2699-4dad-95bc-cfc7588bc528
+›
+java:S1104@"SMake queries a static final constant or non-public and provide accessors if needed.(éÏ«Õùÿÿÿÿ8ŸÅ¤Şæ1J$0d21b6ae-b5d9-4b13-bafe-18808bcd9985
+“
+java:S1104G"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ŸÅ¤Şæ1J$70317a5d-99ff-4898-8263-359f9a04d4dc
+™
+java:S1104H"VMake baseAttack a static final constant or non-public and provide accessors if needed.(­şÛË8ŸÅ¤Şæ1J$8a5af72d-341e-462a-9d67-3d60d2732ea1
+š
+java:S1104H"WMake baseDefense a static final constant or non-public and provide accessors if needed.(­şÛË8ŸÅ¤Şæ1J$ce2672bf-55ae-45ca-815b-6e0674a44c50
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şğ ä8 Å¤Şæ1J$4756aee9-9251-4bba-b36d-5ae9774d92f8
+	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¾Èšìşÿÿÿÿ8¦Å¤Şæ1J$6c2b7df9-b5c0-4c68-9f69-7e2000365f07
+l
+java:S1659H")Declare "baseDefense" on a separate line.(­şÛË8ªÅ¤Şæ1J$dd5c346d-35cf-41f8-870a-de20dfa6a635
+…
+java:S2094z"BRemove this empty class, write its code or make it an "interface".(ç‰€8¬Å¤Şæ1J$3c4b7aea-e338-4a6f-89cb-cf2df4dde3a8

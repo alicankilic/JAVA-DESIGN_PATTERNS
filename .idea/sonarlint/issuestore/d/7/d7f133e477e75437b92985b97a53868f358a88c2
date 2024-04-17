@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¾™¯ùÿÿÿÿ8İ¥²ëä1J$c0b9af53-68e8-4246-8b95-4a4d35ad332f
+
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ø°³8ã¥²ëä1J$1bdad62d-d26c-4fc1-b63e-62d40d9f97e3
+„
+java:S1612&"<Replace this lambda with method reference 'getOrAdd::apply'.(—‡Éşÿÿÿÿ8å¥²ëä1J$bef9bf24-09d5-48d7-84ed-5b37851bc537
+{
+java:S18543"8Remove this useless assignment to local variable "usr1".(Ø‚´†8æ¥²ëä1J$a27f35ef-84c8-49c2-990f-62ef2f212db7
+z
+java:S18542"7Remove this useless assignment to local variable "usr".(•üÚ8æ¥²ëä1J$90707332-8feb-4bf2-9a39-400ae84fbc77
+k
+java:S14812"(Remove this unused "usr" local variable.(•üÚ8ç¥²ëä1J$ee18561f-c4a7-4b39-9681-6a979b9198a1
+l
+java:S14813")Remove this unused "usr1" local variable.(Ø‚´†8ç¥²ëä1J$6c6c7bc1-83df-44b2-8159-8ab0e9d5e28b
+o
+java:S1068",Remove this unused "fullName" private field.(—ÿø8è¥²ëä1J$fe67bd35-9615-4a4a-bea5-c8707c227c91
+q
+java:S1068")Remove this unused "names" private field.(‘ÁêÚûÿÿÿÿ8è¥²ëä1J$cc693657-d1e8-4261-bb48-8ab5ab319cf4
