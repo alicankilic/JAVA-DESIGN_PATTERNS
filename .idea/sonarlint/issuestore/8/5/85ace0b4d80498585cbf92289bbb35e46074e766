@@ -1,4 +1,20 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¦¾õûÿÿÿÿJ$15191642-f408-4595-928d-0f16661f9475
-„
-java:S2094"BRemove this empty class, write its code or make it an "interface".(îîûh8©¾•ïî1J$cf0a4f9f-280b-4403-b01a-46b896c9d596
+¡
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¿øËøÿÿÿÿ8Å³‡Œï1J$81482810-ef88-4288-9d51-6a52d2a248c4
+“	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùµ…±8Æ³‡Œï1J$15d4fb6a-d7b1-4d9f-9c88-eaba26c061dc
+“	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃËí¢8Æ³‡Œï1J$259aa94c-782b-444d-b7e2-7d759cff3b81
+k
+java:S1604W"(Make this anonymous inner class a lambda(ÃËí¢8Ç³‡Œï1J$90d1dd12-f2a0-46a5-9cc6-1aabae6fa985
+š
+java:S11043"RMake source a static final constant or non-public and provide accessors if needed.(û¶ğ¸ÿÿÿÿÿ8Ç³‡Œï1J$e206f3e4-7b61-40c4-82ef-6556806a3a04
+›
+java:S11044"XMake propertyName a static final constant or non-public and provide accessors if needed.(ËÇêã8Ç³‡Œï1J$0c13f599-7c83-4b03-baa2-4fc05fa5e6a4
+²
+java:S1104@"jMake propertyChangedEventArgsXEvent a static final constant or non-public and provide accessors if needed.(Ô¿øËøÿÿÿÿ8Ç³‡Œï1J$b2b12a98-f254-42d3-a00f-6086c026976e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¦¾õûÿÿÿÿ8È³‡Œï1J$b09e1c19-898d-4e5a-929e-f43cd4d83aa4
+‹	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(•¡û8Î³‡Œï1J$45606c13-6d93-4951-a1c0-f37220f4bd69
+z
+java:S1854W"7Remove this useless assignment to local variable "Sub".(ÃËí¢8Ô³‡Œï1J$43fb6e6d-00c2-4d27-8de0-d3ef0a51df0c
+r	java:S106\"+Replace this use of System.out by a logger.(Ñùşÿøÿÿÿÿ8Ö³‡Œï1J$bb28db66-5920-4391-87cf-b28f4e1e8523
+k
+java:S1481W"(Remove this unused "Sub" local variable.(ÃËí¢8Ö³‡Œï1J$255d223e-38c6-447f-93ac-f6c52a84645c

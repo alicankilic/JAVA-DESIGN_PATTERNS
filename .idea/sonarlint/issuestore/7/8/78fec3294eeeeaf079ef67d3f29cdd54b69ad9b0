@@ -1,13 +1,13 @@
 
 ›
-java:S1104"SMake balance a static final constant or non-public and provide accessors if needed.(ØÀÝ°úÿÿÿÿ8Šê²×é1J$258416fd-8c28-4719-b279-6ef9366bc513
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý‡ïŠüÿÿÿÿ8‹ê²×é1J$896ad0ff-89d2-42c4-8cfb-fcdc5513023d
+java:S1104"SMake balance a static final constant or non-public and provide accessors if needed.(ØÀÝ°úÿÿÿÿ8Šê²×é1J$2cdd22fc-d214-4d68-840f-6d1d711c16cc
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý‡ïŠüÿÿÿÿ8‹ê²×é1J$d15ebc7d-3fbf-47f7-9509-e2530216c3ed
 z
-java:S1135"2Complete the task associated to this TODO comment.(ýÍÁŒÿÿÿÿÿ8¤úÀ×é1J$1a9c97a3-f47f-4b08-a367-c6076b34d183
+java:S1135"2Complete the task associated to this TODO comment.(ýÍÁŒÿÿÿÿÿ8¤úÀ×é1J$2e0dde5d-8b7c-4dbf-bed8-120b7c2e69c6
 z
-java:S1135"2Complete the task associated to this TODO comment.(¿±„þøÿÿÿÿ8”ê²×é1J$d3e29873-bc60-4546-8761-fd73cf0ef565
+java:S1135"2Complete the task associated to this TODO comment.(¿±„þøÿÿÿÿ8”ê²×é1J$8b6e51d0-afcb-43b8-bdcd-54c4d93e358f
 z
-java:S1135"2Complete the task associated to this TODO comment.(ÛŸÝ§þÿÿÿÿ8”ê²×é1J$7699d557-9cde-4142-96d9-a40c852d1fbc
-m	java:S106;"+Replace this use of System.out by a logger.(Ì´òÈ8ØÊ·×é1J$5c0a2386-215d-4fbb-98ba-a38fc8ee18b2
-m	java:S106?"+Replace this use of System.out by a logger.(Ì´òÈ8¥ê¹×é1J$afb56edf-b9b7-4c5d-b37f-d27e20ae212e
-m	java:S106B"+Replace this use of System.out by a logger.(Ì´òÈ8¦ê¹×é1J$029c77a6-908e-4b66-b61f-b9cfd49aab44
+java:S1135"2Complete the task associated to this TODO comment.(ÛŸÝ§þÿÿÿÿ8”ê²×é1J$44f2f486-b8b9-4563-aa57-8b7fd21efbb4
+m	java:S106;"+Replace this use of System.out by a logger.(Ì´òÈ8ØÊ·×é1J$a0d00d28-61bf-4bcf-b7f8-40fb969031f8
+m	java:S106?"+Replace this use of System.out by a logger.(Ì´òÈ8¥ê¹×é1J$1d7c9319-3893-48c5-b53f-3ed6993bbdf6
+m	java:S106B"+Replace this use of System.out by a logger.(Ì´òÈ8¦ê¹×é1J$e00ba776-1718-4d64-8ee2-3108a35b5520
