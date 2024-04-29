@@ -1,8 +1,0 @@
-
-’
-java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8ÀÛğä1J$082d7154-ebc0-4849-bac2-b39f66c49de6
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÚ¤ışÿÿÿÿ8ÁÛğä1J$47d47199-7e24-4858-b393-2128cd9bfda2
-m	java:S106"+Replace this use of System.out by a logger.(ÚÆÈš8ÅÛğä1J$5353c32d-fb55-415f-aeeb-01635d1af270
-m	java:S1067"+Replace this use of System.out by a logger.(šëöş8ÆÛğä1J$8fcd5bd1-b81e-4801-974d-d1938bb7cf66
-z
-java:S1135A"2Complete the task associated to this TODO comment.(ÊÃ¹âûÿÿÿÿ8È¿àğä1J$e836d96d-3e12-4432-8246-358b8791768f

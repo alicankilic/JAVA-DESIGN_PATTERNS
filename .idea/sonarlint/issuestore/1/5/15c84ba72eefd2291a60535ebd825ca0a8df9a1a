@@ -1,12 +1,0 @@
-
-
-java:S1301E"KReplace this "switch" statement by "if" statements to increase readability.(ı™Åó8Â¢¦ºç1J$2d6dd109-8471-4898-82b6-64e398ad9104
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å¸½úÿÿÿÿ8Ã¢¦ºç1J$f0c69cf7-379a-4264-a53e-3833b038780d
-r	java:S106"+Replace this use of System.out by a logger.(ü­˜†üÿÿÿÿ8Í¢¦ºç1J$22e07500-dadb-41e9-9e12-748187164424
-m	java:S106"+Replace this use of System.out by a logger.(ñôñ»8Í¢¦ºç1J$fca38acf-b2f7-4d2c-bdc9-118509437357
-d
-java:S6205I"Remove this redundant block.(ÒÌâ–øÿÿÿÿ8Ğ¢¦ºç1J$d9b5a53c-96ec-4e49-9f52-e0618050ec0e
-d
-java:S6205M"Remove this redundant block.(ÒÌâ–øÿÿÿÿ8Ğ¢¦ºç1J$cde79b61-c018-4c37-bac0-7eae109c5649
-r	java:S106]"+Replace this use of System.out by a logger.(¶º¨•ùÿÿÿÿ8Ñ¢¦ºç1J$f5336d0f-bb83-495a-93cb-3a6434f2db15
-l	java:S106d"+Replace this use of System.out by a logger.(êıY8î´ªºç1J$a96c2cd6-3b32-4d43-a1a9-15f1303131ae

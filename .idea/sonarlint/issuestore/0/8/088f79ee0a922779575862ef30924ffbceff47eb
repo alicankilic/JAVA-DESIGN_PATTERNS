@@ -1,19 +1,0 @@
-
-™
-java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8˜¤úœä1J$7c1acea5-82ba-4dab-85b3-b59ea276c1ce
-—
-java:S1104"TMake children a static final constant or non-public and provide accessors if needed.(Ó–Ä­8˜¤úœä1J$1d74f85b-74e6-4457-8c6d-355a12d0919c
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×êÛßÿÿÿÿÿ8š¤úœä1J$98917849-9dbf-4b77-b4df-dd54e1caa9ef
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü‰ûÂ8§¤úœä1J$6c2c1e3e-1e5a-494c-bc87-f92480999f41
-d
-java:S11103"!Remove these useless parentheses.(Ë’ó8¬¤úœä1J$ff1a211d-019b-4ebe-9e6e-2b1b2df1a8ab
-u
-java:S1135a"2Complete the task associated to this TODO comment.(Åß¶8†ƒä1J$7cf261b3-401a-430b-afa2-f733b0c4bdc6
-u
-java:S1135b"2Complete the task associated to this TODO comment.(‹€é—8†ƒä1J$2f7a8a57-74a7-426d-bded-5a0ec615f532
-r	java:S106j"+Replace this use of System.out by a logger.(“úŞ¯ÿÿÿÿÿ8È‚…ä1J$17c95817-e74d-4658-b441-7380b95aa272
-‰
-java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.C'.(ÏıÁÊ8¯¤úœä1J$401ebbac-f2f5-403b-9002-eec5053ae7d4
-w
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8É‚…ä1J$40413f28-3d6a-49fe-826e-d3071bddb734

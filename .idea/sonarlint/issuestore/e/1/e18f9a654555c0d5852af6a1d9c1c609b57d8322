@@ -1,9 +1,0 @@
-
-“
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8Ğòôè1J$0fc7d2af-7253-4eee-8d3f-4b16594d6784
-˜
-java:S1104"PMake room a static final constant or non-public and provide accessors if needed.(¶Ô»üÿÿÿÿ8Ğòôè1J$59b467df-f852-458e-91f2-6cf81dc8950d
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¿•ûÿÿÿÿ8Ñòôè1J$809d1d1c-5e94-4e6e-883a-a20e62e7a733
-r	java:S106"+Replace this use of System.out by a logger.(Ÿ‹îèıÿÿÿÿ8×òôè1J$69ddf8e8-35a0-4560-8083-03feb0b753d2
-
-java:S1128	"FRemove this unused import 'org.checkerframework.checker.units.qual.A'.(¿‚áñøÿÿÿÿ8Ûòôè1J$52602457-d869-40d9-ba55-89f91545b7a5

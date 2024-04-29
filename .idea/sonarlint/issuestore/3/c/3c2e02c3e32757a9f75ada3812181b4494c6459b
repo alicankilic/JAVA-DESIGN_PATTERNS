@@ -1,14 +1,0 @@
-
-œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÊïŠ8ÈË£×ê1J$9379ef99-5fbd-467b-a10f-5c47ede83988
-œ
-java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş÷ê8ÉË£×ê1J$0e2a7db2-2178-4a48-856e-93f77500d979
-š
-java:S1104	"RMake source a static final constant or non-public and provide accessors if needed.(€…ê±ûÿÿÿÿ8ÉË£×ê1J$a9afbf10-64d6-439a-b39d-c47f56e84f7e
-›
-java:S1104
-"XMake propertyName a static final constant or non-public and provide accessors if needed.(ËÇêã8ÊË£×ê1J$c539e679-22e8-4d08-a435-1e16e7ba8223
-œ
-java:S1104"TMake newValue a static final constant or non-public and provide accessors if needed.(º•æşÿÿÿÿ8ÊË£×ê1J$f47ce2f5-183e-4ed7-92f9-2d0ef04dcb7a
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¦¾õûÿÿÿÿ8ÊË£×ê1J$780df5bf-5325-43ea-9ef3-d9b508224a41
-r	java:S106T"+Replace this use of System.out by a logger.(’ŞÛÑıÿÿÿÿ8Ï±¥×ê1J$b0371dc1-e6fc-4154-8b11-bedb3ab751b1

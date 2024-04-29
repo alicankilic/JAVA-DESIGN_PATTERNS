@@ -1,8 +1,0 @@
-
-
-java:S1104B"RMake radius a static final constant or non-public and provide accessors if needed.(¶Ν¦ϊÿÿÿÿÿ8έ—’υγ1J$f3d5591f-b3be-4b17-ae87-a9b539fc5f7e
-΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ώΓ¨­ϋÿÿÿÿ8ί—’υγ1J$082429e5-4000-405b-8965-999138194553
-m	java:S106"+Replace this use of System.out by a logger.(ώ¬έ«8λ—’υγ1J$92b94031-40e9-4ed8-9528-e16c616e6952
-r	java:S106$"+Replace this use of System.out by a logger.(ήƒχήϊÿÿÿÿ8ν—’υγ1J$ba35e23b-2667-47cf-ad74-ac87537106db
-
-java:S5993."9Change the visibility of this constructor to "protected".(έΝΘΨÿÿÿÿÿ8ξ—’υγ1J$9476a798-6964-4b25-8deb-85157b89da25
